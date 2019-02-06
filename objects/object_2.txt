@@ -1,8 +1,9 @@
 Chef
 
 Attributes:
-White hat
-Beard net
+White hat (string)
+Beard net (boolean)
+Name (string)
 
 
 Methods:
