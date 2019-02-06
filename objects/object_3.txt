@@ -4,11 +4,11 @@ Bathroom
 Attributes:
 Toilet (string)
 Sink (string)
-Paper towel (string)
+PaperTowel (string)
 Women's (boolean)
 Men's (boolean)
 
 Methods:
-Run water
-Clean hands
-Dry hands
+RunWater
+CleanHands
+DryHands
