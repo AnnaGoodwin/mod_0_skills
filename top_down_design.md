@@ -36,4 +36,6 @@
     - 7.3 Insert eating utensil into hopefully delicious Food
     - 7.4 Raise food to mouth, chew, consume.
 
-![Eaaaaat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5cIwlcr31GRr6xfQ5R1v8ExZwkpw9dmDTBLTja-djgqH93Gw0g)
+<p align="center">
+  <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5cIwlcr31GRr6xfQ5R1v8ExZwkpw9dmDTBLTja-djgqH93Gw0g">
+</p>
