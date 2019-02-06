@@ -1,13 +1,13 @@
 Chef
 
 Attributes:
-White hat (string)
-Beard net (boolean)
+WhiteHat (string)
+BeardNet (boolean)
 Name (string)
 
 
 Methods:
 Cook
 Bake
-Read recipes
-Read food orders
+ReadRecipes
+ReadFoodOrders
