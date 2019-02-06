@@ -1,0 +1,12 @@
+Bathroom
+
+
+Attributes:
+Toilet
+Sink
+Paper towel
+
+Methods:
+Run water
+Clean hands
+Dry hands
