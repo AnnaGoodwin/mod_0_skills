@@ -2,9 +2,11 @@ Bathroom
 
 
 Attributes:
-Toilet
-Sink
-Paper towel
+Toilet (string)
+Sink (string)
+Paper towel (string)
+Women's (boolean)
+Men's (boolean)
 
 Methods:
 Run water
