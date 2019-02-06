@@ -1,0 +1,12 @@
+Chef
+
+Attributes:
+White hat
+Beard net
+
+
+Methods:
+Cook
+Bake
+Read recipes
+Read food orders
