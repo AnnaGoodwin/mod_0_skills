@@ -37,5 +37,5 @@
     - 7.4 Raise food to mouth, chew, consume.
 
 <p align="center">
-  <src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5cIwlcr31GRr6xfQ5R1v8ExZwkpw9dmDTBLTja-djgqH93Gw0g">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5cIwlcr31GRr6xfQ5R1v8ExZwkpw9dmDTBLTja-djgqH93Gw0g">
 </p>
