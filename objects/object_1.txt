@@ -1,0 +1,13 @@
+Waiter
+
+Attributes:
+Name (string)
+Vacation Days (array)
+ID Number (Integer)
+Working Today (boolean)
+
+Methods:
+Bus tables
+Wash dishes
+Clean floors
+Run checks/receipts
